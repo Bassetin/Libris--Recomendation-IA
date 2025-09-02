@@ -47,9 +47,23 @@ libris/
 │   ├── nlp/              # Análise de sinopses e resenhas
 │   └── interface/        # Interface com o usuário
 └── docs/                 # Documentação do projeto
-****
+```
+## 📦 requirements.txt
+
+```txt
+pandas
+numpy
+scikit-learn
+lightfm
+surprise
+requests
+streamlit
+spacy
+nltk
+transformers
 ```
 ---
+
 🚀 Como Rodar o Projeto
 1. Clone o repositório
 ```bash
