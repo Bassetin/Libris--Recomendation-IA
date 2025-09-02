@@ -67,7 +67,7 @@ transformers
 🚀 Como Rodar o Projeto
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/libris.git
+git clone https://github.com/seu-usuario/Libris--Recomendation-IA.git
 cd libris
 ```
 2. Crie o ambiente virtual
