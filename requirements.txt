@@ -1,10 +1,13 @@
 pandas
 numpy
+pymongo
 scikit-learn
 lightfm
 surprise
 requests
 streamlit
+matplotlib
 spacy
 nltk
+seaborn
 transformers
