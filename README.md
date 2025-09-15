@@ -52,12 +52,14 @@ libris/
 
 ```txt
 pandas
+pymongo
 numpy
 scikit-learn
 lightfm
 surprise
 requests
 streamlit
+matplotlib
 spacy
 nltk
 transformers
