@@ -9,6 +9,7 @@ def buscaresalvar(query):
     dados = buscar_livros(query)
     for item in dados.get("items", []):
         livro = {
+
             "titulo": item["volumeInfo"].get("title"),
             "autor": item["volumeInfo"].get("authors", ["Desconhecido"]),
             "sinopse": item["volumeInfo"].get("description", ""),

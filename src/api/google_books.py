@@ -5,3 +5,4 @@ def buscar_livros(query):
     response = requests.get(url)
     return response.json()
 
+
